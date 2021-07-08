@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 Jul, 2021, 9:46:01 PM
+    Author     : dasar
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11 Jun, 2021, 8:05:03 AM
+    Author     : dasar
+*/
+
+#banner_image
+    {
+      padding-top: 75px;
+	padding-bottom: 150px;
+       text-align: center;
+       color: #f8f8f8;
+       background: url(https://thumbs.dreamstime.com/z/banking-services-vector-flat-style-design-illustration-bank-building-man-megaphone-attracting-financial-resources-happy-woman-172976238.jpg);
+       background-size:auto;
+       background-position: center;
+	background-repeat: no-repeat;
+     }
+ 
+  #foot
+    {
+        position:fixed;
+      text-align: center;
+       padding: 10px 0;
+       background-color: #101010;
+       color:#9d9d9d;
+       bottom: 0;
+       width: 100%;
+    }
+    #banner_content {
+	position: relative;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	margin: 12% auto;
+	background-color: #483D8B;
+	max-width: 660px;
+}
+.panel-margin {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.text-centre {
+	text-align: center;
+}
+/*
+data:imXIbu0rrmx95DtK65sfeQEundW1VxjJbsm1hS177oZ7q17ehKW8/zjpKPbd5aVKM7WE5OvTuIOacWklFPOrLPR3rm+KM5hT8R09mbc1ziJc8ADoXJAACQAAAAAAAAAAAAAAAAAAAAAAAAa+nPHnjYAInCVYXVOzuqdxOEpxjGpFxg0n3yxxsufyhtfNa3vw/6Oc5Qa13TW7s7qm5Y1t2xTsonk7SjeQrUqVWMGlOO9htNroeDZ2dc37Sk2NV3qFSjxdjllPPhb2vEWenKjmtRR4VyaXX6W941qK3u4vqVrb3VzODlC3ozqyipRi5bqzupy0y/IRNlbaobWtpXNKhOko1ZUnCrOEppx8r3eUpeF906OzaVtuRn27V1k5YcFRamsLp4io4HXTpXt1ZqCau6XZXUlLwXR0UUunJ5inMZZ8830Ds65PtMqunjKSXlbeElyvJo9ax0Mrdt3bstk31fdjNzh2tFOWP0ydNtY8qzkxxznD1MoM+HOzoTqQez7puE5wbVWjh7rayjz+Xezf9Ou/96j/0fP1oDYiiGLc+gfl3s3/Trz/doj8u9m/6def7tE+fgnbCNz6B+Xezf9OvP92ibrXhnY3dza2sbG5pyuKqpqpUq0dyGU3mWD5yZi1GUJtZ3Jwnjl3WpYImiMG59n7OuTy44x2dcn2kGxuXeWdndOEYSuKMKsoQe8oSksuGegkLLaWU3nGEjXzicM0dELa/CC22PG0dW3q1ncynGKpThFxUcayUvT9hZwuKclGTWYSSkmpZWHrlYPmnCm67Z2tcQ3IxVnBWilGW9vpd/vPyZ1Os4N3crrZFtmEafaubRJS3nKNJJKbzymSYmIy8ZzOHR1Jbm68ZhJZjOPE1/wBka4vYW9NT7FUqSlOFOFOk1vzlLiUUzbRqL9FUW/CbSaXhRb4nEi7Xr9zIUlTg5XVZTVO5lDvaEHo9z+Yy2bfiVxENfUXfBomZYudr21o40qlCpK43VKtCE4ONBvVQcuJvlOau66ubm5rxi4qrUc1FtNrOOPBobbbbbcmtZVuxSms5nSqOCfZKbf2kup+98fg0s9L0KTafj1b6tH7iNrh8RVcmFZxOqbdqKo/truraVtOOJxqUaq37etDwatPlXTyojntVaipSo5zTk95RlruT50eTpPB0NOYjEuWqxM5gABLyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJFhsnxmr1er8C4j+x/oT+JT7J8ZrdXq/At1+y/oT+JzfEfldZwj4P3LjuGHjGyeoy/GkU+xfpjYvXaXxLjhf4xsnqMvxpFPsX6Y2L12l8TWj2rL8vpK4o9ZZzvC76Otf7lU/DZ0S4o9ZZzvC76Otf7lU/DZhp90Mk9HEgA2WEAAAAAd9wV+h7Hr1194vKPh23W/iUfBX6HsevXX3i8o+Hbdb+Jq1dWWl8ruvGbzrFf77On4H/oNufXs/wDEjmLrxm86xX++zp+CH6Dbn17T/EzPV7XiPc6ufHdfVpfApNp+PV/q0fuIu6n7z9Wl8Ck2n49X+rR+4jb4b8sqvi/wftDAB0TlAAEJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEoWGyfGa3V6vwLhfsv6E/iU+yfGa3V6vwLhfsv6E/ic5xH5XXcI+D9y43hf4xsnqMvxpFPsb6Y2L12l8S44X+MbI6jL8aRUbF+mNi9dpfE1Y9qx/L6QuKPWWc9wu+jrX+5VPw2dEv1Osv/JznC76OtP7lU/DZhp90Mk9HFGADZYQAADJgAd9wV+h7Hr1194vKPh23W/iUfBX6HsevXX3i8o+Hbdb+Jq1dWWl8ruvGbzrFf77On4IfoNu/Xs/8SOYuvGbzrFf77On4H/oNu/Xs/wDEjPV7XiOrrKn7z9Wl8Cj2n49X+rS+4i7qfvP1aXwKTafj1f6tH7iNvhnyyq+L/B+0MAHQuUAAEgAAAAAAAAAAAAANP/YK3XlftGXyv2kZY9yyBW68r9o15X
+*/
