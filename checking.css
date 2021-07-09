@@ -4,48 +4,16 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : 7 Jul, 2021, 9:46:01 PM
+    Created on : 9 Jul, 2021, 2:15:43 PM
     Author     : dasar
 */
 
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 11 Jun, 2021, 8:05:03 AM
-    Author     : dasar
-*/
-
-#banner_image
-    {
-      padding-top: 75px;
-	padding-bottom: 150px;
-       text-align: center;
-       color: #f8f8f8;
-       background: url(https://thumbs.dreamstime.com/z/banking-services-vector-flat-style-design-illustration-bank-building-man-megaphone-attracting-financial-resources-happy-woman-172976238.jpg);
-       background-size:auto;
-       background-position: center;
-	background-repeat: no-repeat;
-     }
- 
-  #foot
-    {
-        position:fixed;
-      text-align: center;
-       padding: 10px 0;
-       background-color: #101010;
-       color:#9d9d9d;
-       bottom: 0;
-       width: 100%;
-    }
-    #banner_content {
+#banner_content {
 	position: relative;
 	padding-top: 3%;
 	padding-bottom: 3%;
 	margin: 12% auto;
-	background-color: #483D8B;
+	background-color: rgba(201, 76, 76, 0.3);
 	max-width: 660px;
 }
 .panel-margin {
@@ -68,4 +36,4 @@ data:imXIbu0rrmx95DtK65sfeQEundW1VxjJbsm1hS177oZ7q17ehKW8/zjpKPbd5aVKM7WE5OvTuIO
     top: 50%;
     left: 50%;
     margin-right: -50%;
-    transform: translate(-50%, -50%) }
+    transform: translate(-50%, -50%)}

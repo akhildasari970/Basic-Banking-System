@@ -35,7 +35,7 @@ and open the template in the editor.
                         
 					<h1>Welcome to Sparks Bank</h1>
                                         <br><br>
-					<a href="products.php">
+					<a href="transfer.php">
 						<button class="btn btn-danger btn-lg active">Transfer Now</button>
 					</a>
                     </center>
